@@ -1,1 +1,0 @@
-barsh.sh
